@@ -1,11 +1,11 @@
 # IVF-Clinic-Performance-Pregnancy-Outcomes
 
-# 🧬 IVF Clinic Performance & Pregnancy Outcomes Dashboard
+# IVF Clinic Performance & Pregnancy Outcomes Dashboard
 
 A **healthcare analytics project** focused on analyzing IVF clinic performance, patient funnel metrics, pregnancy success rates, and regional outcomes using **SQL and Power BI**.
 This project demonstrates end-to-end data handling: **data modeling → KPI analysis → interactive dashboard design**.
 
-## 📌 Project Overview
+## Project Overview
 
 Infertility and assisted reproductive technologies like IVF require **data-driven decision-making** to improve success rates and optimize treatment pathways.
 This dashboard provides a **holistic view of IVF clinic operations**, patient progression, and pregnancy outcomes.
@@ -17,7 +17,7 @@ This dashboard provides a **holistic view of IVF clinic operations**, patient pr
 * How do outcomes vary by **city, doctor, clinic branch, and age group**?
 * What are the cost trends associated with IVF treatments?
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer         | Tools                      |
 | ------------- | -------------------------- |
@@ -27,7 +27,7 @@ This dashboard provides a **holistic view of IVF clinic operations**, patient pr
 | Dataset Size  | ~1,800 patient records     |
 | Domain        | Healthcare / IVF Analytics |
 
-## 🗂 Dataset Description
+## Dataset Description
 
 The dataset is **synthetically generated** to simulate real-world IVF clinic data and includes:
 
@@ -37,9 +37,9 @@ The dataset is **synthetically generated** to simulate real-world IVF clinic dat
 * Treatment cost
 * Doctor and clinic branch information
 
-⚠️ *No real patient data is used.*
+*No real patient data is used.*
 
-## 📊 Key Dashboard Metrics (KPIs)
+## Key Dashboard Metrics (KPIs)
 
 * **Total Patients**
 * **IVF Cycles Started**
@@ -47,9 +47,9 @@ The dataset is **synthetically generated** to simulate real-world IVF clinic dat
 * **Average Treatment Cost (₹)**
 * **Pregnancy Success Rate (%)**
 
-## 🔍 Dashboard Features
+## Dashboard Features
 
-### 1️⃣ IVF Patient Funnel
+### 1️.IVF Patient Funnel
 
 Tracks patient progression through:
 
@@ -61,18 +61,18 @@ Tracks patient progression through:
 
 Helps identify **drop-off stages** and operational bottlenecks.
 
-### 2️⃣ Pregnancy Outcome Analysis
+### 2️.Pregnancy Outcome Analysis
 
 * Success vs Failure distribution
 * Percentage-based visualization
 * Clear comparison of clinical outcomes
 
-### 3️⃣ Regional Performance
+### 3️.Regional Performance
 
 * Successful pregnancies by **city**
 * Identifies high-performing regions
 
-### 4️⃣ Interactive Filters
+### 4️.Interactive Filters
 
 Dynamic slicers for:
 
@@ -83,7 +83,7 @@ Dynamic slicers for:
 
 Enables **custom cohort analysis**.
 
-## 📈 Skills Demonstrated
+## Skills Demonstrated
 
 * Healthcare data analytics
 * SQL data modeling & aggregation
@@ -92,21 +92,21 @@ Enables **custom cohort analysis**.
 * Data storytelling & visualization
 * Domain understanding (IVF & women’s health)
 
-## 🚀 How to Use This Project
+## How to Use This Project
 
 1. Clone the repository
 2. Import dataset into SQL Server (optional)
 3. Open `.pbix` file in Power BI Desktop
 4. Interact with filters and visuals
 
-## 📌 Use Cases
+## Use Cases
 
 * Healthcare analytics portfolios
 * Data analyst / business analyst roles
 * IVF clinic performance monitoring
 * Women’s health data projects
 
-## 👩‍💻 Author
+## Author
 
 **Rimsha Khan**
 
