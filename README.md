@@ -1,7 +1,5 @@
 # IVF-Clinic-Performance-Pregnancy-Outcomes
 
-# IVF Clinic Performance & Pregnancy Outcomes Dashboard
-
 A **healthcare analytics project** focused on analyzing IVF clinic performance, patient funnel metrics, pregnancy success rates, and regional outcomes using **SQL and Power BI**.
 This project demonstrates end-to-end data handling: **data modeling → KPI analysis → interactive dashboard design**.
 
